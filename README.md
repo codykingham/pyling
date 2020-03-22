@@ -1,5 +1,5 @@
 # Python for Linguists and Humanists
-### Cody Kingham, cak47[put "at-sign" here][dot]cam.ac.uk
+**Cody Kingham, `cak47[put "at-sign" here][dot]cam.ac.uk`**
 
 **Contents**
 
