@@ -1,9 +1,12 @@
-# Python for Linguists and Humanists
+
+
+# Python for Linguists and Humanists 
+
 **Cody Kingham, `cak47[put "at-sign" here].cam.ac.uk`**
 
-Much of this course material is directly adapted from the [Python for Text Analysis Course](https://github.com/cltl/python-for-text-analysis) at the Vrije Universiteit Amsterdam. I take care to indicate those materials which are directly copied from that course. Many thanks to the [Computational Lexicology & Terminology Lab](http://www.cltl.nl) at the VU.
+Much of this course material is directly adapted from the [Python for Text Analysis Course](https://github.com/cltl/python-for-text-analysis) at the Vrije Universiteit Amsterdam. I take care to indicate those materials which are directly copied from that course. A special thanks to [Chantal van Son](https://github.com/ChantalvanSon), [Evan Miltenburg](https://github.com/evanmiltenburg), [Marten Postma](https://github.com/MartenPostma), [Filip Ilievski](https://github.com/filievski), and the [Computational Lexicology & Terminology Lab](http://www.cltl.nl) at the VU.
 
-**Contents**
+## Contents
 
 * [Intro](#Intro) - description of the course 
 * [Course Schedule](#Course-Schedule) - course schedule for Spring 2020
@@ -14,9 +17,9 @@ Much of this course material is directly adapted from the [Python for Text Analy
 
 ## Intro
 
-Welcome to the Python for Linguists and Humanists course! In this course you will learn the basics of Python and how to begin using Python to address corpus-driven, quantitative research questions in your field. This course puts an emphasis on a **Bring Your Own Text** (BYOT) approach, where the exercises work from a plain-text file of a text you are interested in. While there are many existing off-the-shelf tools for English texts, humanists often work with non-English texts that are comparatively resource poor. Many Python courses use dummy problems for the exercises. But I've worked to relate many of the exercises to a worthwhile concept in corpus linguistics. Another distinctive of this course is that [Pandas DataFrames](https://pandas.pydata.org/pandas-docs/stable/getting_started/overview.html) are introduced early on. Pandas is a Python package which provides [data containers](https://docs.python.org/3/library/collections.html) such as [DataFrames](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html#pandas.DataFrame). DataFrames are tables of rows and columns (see [matrices](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices/x9e81a4f98389efdf:mat-intro/a/intro-to-matrices)) that contain numerical or categorical data. This data structure comes standard in R, for instance, due to its necessity for statistics and data science. Knowledge of Pandas DataFrames are likewise critical if you'd like to later on expand to machine learning.
+Welcome to the Python for Linguists and Humanists course! In this course you will learn the basics of Python and how to begin using Python to address corpus-driven, quantitative research questions in your field. This course puts an emphasis on a **Bring Your Own Text** (BYOT) approach, where the exercises work from a plain-text file of a text you are interested in. While there are many existing off-the-shelf tools for English texts, humanists often work with non-English texts that are comparatively resource poor. Many Python courses use dummy problems for the exercises. But I've worked to relate many of the exercises to a worthwhile concept in corpus linguistics. Another distinctive of this course is that [Pandas DataFrames](https://pandas.pydata.org/pandas-docs/stable/getting_started/overview.html) are introduced early on. Pandas is a Python package which provides [data containers](https://docs.python.org/3/library/collections.html) such as [DataFrames](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html#pandas.DataFrame). DataFrames are tables of rows and columns (see [matrices](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices/x9e81a4f98389efdf:mat-intro/a/intro-to-matrices)) that contain numerical or categorical data. This data structure comes standard in R, for instance, due to its necessity for statistics and data science. Knowledge of Pandas DataFrames is likewise critical if you'd like to expand to machine learning later on.
 
-The total duration of this course is 8 weeks. The first 5 weeks of the course focuses on the bare-bones basics of Python (+Pandas DataFrames). From weeks 6—7, the course introduces corpus linguistic methods for a variety of research questions. We will look at some useful packages for text-modeling such as [Text-Fabric](https://annotation.github.io/text-fabric/) as well as a few mainstream tools like the [Natural Language Toolkit](https://www.nltk.org) and [spaCy](https://spacy.io). The 8th and final week will be dedicated to the final project, in which you will formulate a research question/hypothesis, and design a quantitative experiment to test that hypothesis within your own text. As the culmination of that experiment, you will upload your work to Github and archive it in [Zenodo](https://zenodo.org). 
+The total duration of this course is 8 weeks. The first 5 weeks of the course focuses on the bare-bones basics of Python (+Pandas DataFrames). From weeks 6–7, the course introduces corpus linguistic methods for a variety of research questions. We will look at some useful packages for text-modeling such as [Text-Fabric](https://annotation.github.io/text-fabric/) as well as a few mainstream tools like the [Natural Language Toolkit](https://www.nltk.org) and [spaCy](https://spacy.io). The 8th and final week will be dedicated to the final project, in which you will formulate a research question/hypothesis, and design a quantitative experiment to test that hypothesis within your own text. As the culmination of that experiment, you will upload your work to Github and archive it in [Zenodo](https://zenodo.org). 
 
 ## Course Schedule  
 
@@ -48,7 +51,7 @@ Be sure to select Python 3.7:
 
 <a href="https://www.anaconda.com/distribution/"><img src="images/anaconda_3_7.png" height=50% width=50%></a>
 
-**2.** After installation, open the Anaconda Launcher which should've appeared somewhere in your applications area. Launch the Jupter notebook application. It looks like this:
+**2.** After installation, open the Anaconda Launcher which should've appeared somewhere in your applications area. From the launcher, click on the Jupter notebook application. It looks like this:
 
 <img src="images/jupyter_launch.png" height=30% width=30%>
 
@@ -60,7 +63,7 @@ Next, try to open the first Jupyter notebook lesson for this course. Navigate wi
 
 ### Bring Your Own Text
 
-For this course, you should bring your own plain-text file which the exercises will automatically load. There are few requirements for the text that you choose:
+For this course, you should bring your own plain-text file which the exercises will automatically load. There are a few requirements for the text that you choose:
 
 * the text should be plain-text, i.e. NOT Microsoft Word or equivalent, NOT rich text (`.rtf`). Plain-text is provided at some of the options below and is most often saved with `.txt` extension (ending).
 
