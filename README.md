@@ -1,7 +1,7 @@
 # Python for Linguists and Humanists
 **Cody Kingham, `cak47[put "at-sign" here].cam.ac.uk`**
 
-Much of the course material is directly adapted from the [Python for Text Analysis Course](https://github.com/cltl/python-for-text-analysis) at the Vrije Universiteit Amsterdam. I take care to indicate which those materials which are directly copied from that course. Many thanks to the [Computational Lexicology & Terminology Lab](http://www.cltl.nl) at the VU.
+Much of this course material is directly adapted from the [Python for Text Analysis Course](https://github.com/cltl/python-for-text-analysis) at the Vrije Universiteit Amsterdam. I take care to indicate those materials which are directly copied from that course. Many thanks to the [Computational Lexicology & Terminology Lab](http://www.cltl.nl) at the VU.
 
 **Contents**
 
