@@ -63,7 +63,7 @@ Next, try to open the first Jupyter notebook lesson for this course. Navigate wi
 
 ### Bring Your Own Text
 
-For this course, you should bring your own plain-text file which the exercises will automatically load. There are few requirements for the text that you choose:
+For this course, you should bring your own plain-text file which the exercises will automatically load. There are a few requirements for the text that you choose:
 
 * the text should be plain-text, i.e. NOT Microsoft Word or equivalent, NOT rich text (`.rtf`). Plain-text is provided at some of the options below and is most often saved with `.txt` extension (ending).
 
