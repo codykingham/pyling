@@ -30,9 +30,9 @@ More details are given below.
 
 The page you're reading now is a part of what's called a Github repository. A "repository" is just another way of saying "folder" or project. Github gives us a way to store and share code openly online. 
 
-You will need a copy of this repository on your own machine for the course. You can download a copy by clicking the green `Clone or download` button:
+You will need a copy of this repository on your own machine for the course. You can download a copy by clicking the green `Clone or download` button, or by simply clickling the image below:
 
-<img src="images/download_repo.png" height=50% width=50%>
+<a href="https://github.com/codykingham/pyling/archive/master.zip"><img src="images/download_repo.png" height=50% width=50%></a>
 
 Or if you are familiar with command line and have the developer tools installed (Mac), in a directory of your choice just say:
 
