@@ -22,14 +22,6 @@ The total duration of this course is 8 weeks. The first 5 weeks of the course fo
 
 ## Getting Started
 
-To get started with the course, you need to do two things.
-
-    1. Download this repository to your own computer to get all of the exercises and data. 
-    2. Install the Anaconda distribution of Python
-    3. Select an eligible plain-text document for your exercises
-
-More details are given below.
-
 ### Download Repository
 
 The page you're reading now is a part of what's called a Github repository. A "repository" is just another way of saying "folder" or project. Github gives us a way to store and share code openly online. 
@@ -48,9 +40,7 @@ For this course we rely heavily on packages and tools that come prepackaged in t
 
 Follow these steps to install and launch Python:
 
-**1.** Proceed to [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/), scroll down, download and install Anaconda **for Python 3.7**.
-
-See the [Anaconda cheatsheet for additional information about installing](https://docs.anaconda.com/_downloads/9ee215ff15fde24bf01791d719084950/Anaconda-Starter-Guide.pdf)
+**1.** Proceed to [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/), scroll down, download and install Anaconda **for Python 3.7**. See the [Anaconda cheatsheet for additional information about installing](https://docs.anaconda.com/_downloads/9ee215ff15fde24bf01791d719084950/Anaconda-Starter-Guide.pdf)
 
 Be sure to select Python 3.7:
 
@@ -64,15 +54,15 @@ The Jupyter interface will open in your web browser. **Note that Jupyter only us
 
 <img src="images/jupyter_pane.png" height=75% width=75%>
 
-You should also be able to navigate within the Jupyter file navigator to your local copy of this repository. Under the `lessons/` folder you will find a bunch of Jupyter notebooks that are already pre-loaded with code and content. This is how we will begin the course!
+Next, try to open the first Jupyter notebook lesson for this course. Navigate within the Jupyter file navigator to your local copy of this repository. Under the `lessons/` folder you will find a bunch of Jupyter notebooks that are already pre-loaded with code and content. This is how we will begin the course!
 
 ### Bring Your Own Text
 
-For this course, you should bring your own plain-text corpus OR select one of the texts supplied in the data folder under `texts`, [`data/texts/`](texts). There you will find a selection of pre-made texts from which you can choose. 
-
-The course exercises will automatically load whatever text you have placed inside the `BYOT/` folder. There are few requirements for the text that you choose:
+For this course, you should bring your own plain-text file which the exercises will automatically load. There are few requirements for the text that you choose:
 
 * the text should be plain-text, i.e. NOT Microsoft Word or equivalent, NOT rich text (`.rtf`). Plain-text is provided at some of the options below and is most often saved with `.txt` extension (ending).
+
+If you'd prefer to simply use a ready-made plain-text file, you may pick one under [`data/texts/`](texts). Move whichever text you like into the `BYOT/` folder.
 
 ## Learning Strategies
 
