@@ -6,7 +6,7 @@
 
 Much of this course material is directly adapted from the [Python for Text Analysis Course](https://github.com/cltl/python-for-text-analysis) at the Vrije Universiteit Amsterdam. I take care to indicate those materials which are directly copied from that course. A special thanks to [Chantal van Son](https://github.com/ChantalvanSon), [Evan Miltenburg](https://github.com/evanmiltenburg), [Marten Postma](https://github.com/MartenPostma), [Filip Ilievski](https://github.com/filievski), and the [Computational Lexicology & Terminology Lab](http://www.cltl.nl) at the VU.
 
-**Contents**
+## Contents
 
 * [Intro](#Intro) - description of the course 
 * [Course Schedule](#Course-Schedule) - course schedule for Spring 2020
