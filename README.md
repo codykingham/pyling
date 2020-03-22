@@ -52,11 +52,11 @@ Be sure to select Python 3.7:
 
 <a href="https://www.anaconda.com/distribution/"><img src="images/anaconda_3_7.png" height=50% width=50%></a>
 
-**2.** After installation, open the Anaconda Launcher which should've appeared somewhere in your applications area. Launch the Jupter notebook application. It will open in your web browser. **Note that Jupyter only uses your web browser as an interface, it is not actually connected to the internet and therefore does not need the internet to launch.**
+**2.** After installation, open the Anaconda Launcher which should've appeared somewhere in your applications area. Launch the Jupter notebook application. It looks like this:
 
 <img src="images/jupyter_launch.png" height=30% width=30%>
 
-You will now see the Jupyter Notebook pane in your browser. Inside a folder of your choice, click `New` at the upper right hand corner. You will see `Notebook: Python 3`. Click it. This will launch you into your first Jupyter notebook!
+The Jupyter interface will open in your web browser. **Note that Jupyter only uses your web browser as an interface, it is not actually connected to the internet and therefore does not need the internet to launch.** You can now navigate within the Jupyter interface to a folder of your choice. Click `New` at the upper right hand corner. You will see `Notebook: Python 3`. Click it. This will launch you into your first Jupyter notebook!
 
 <img src="images/jupyter_pane.png" height=75% width=75%>
 
