@@ -4,7 +4,7 @@
 **Contents**
 
 * [Intro](#Intro) - description of the course 
-* [Getting Started](#Getting-Started) – [how to download this repository](#Download-Repository); [instructions to install Anaconda](#Install-Anaconda); [selecting your own text](#Select-Your-Own-Text) for exercises
+* [Getting Started](#Getting-Started) – [how to download this repository](#Download-Repository); [instructions to install Anaconda](#Install-Anaconda); [Bring Your Own Text (BYOT)](#Bring-Your-Own-Text) for exercises
 * [Course Schedule](#Course-Schedule) - course schedule for Spring 2020
 * [Directory (Folder) Structure](#Directory-Structure) - structure of this directory (i.e. folder)
 * [Learning Strategies](#Learning-Strategies) - advice for learning how to code in Python
@@ -62,7 +62,7 @@ The Jupyter interface will open in your web browser. **Note that Jupyter only us
 
 You should also be able to navigate within the Jupyter file navigator to your local copy of this repository. Under the `lessons/` folder you will find a bunch of Jupyter notebooks that are already pre-loaded with code and content. This is how we will begin the course!
 
-### Select Your Own Text
+### Bring Your Own Text
 
 For this course, you should bring your own plain-text corpus OR select one of the texts supplied in the data folder under `texts`, [`data/texts/`](texts). There you will find a selection of pre-made texts from which you can choose. 
 
