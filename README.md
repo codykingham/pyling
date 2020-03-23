@@ -21,23 +21,47 @@ Welcome to the Python for Linguists and Humanists course! In this course you wil
 
 The total duration of this course is 8 weeks. The first 5 weeks of the course focuses on the bare-bones basics of Python (+Pandas DataFrames). From weeks 6–7, the course introduces corpus linguistic methods for a variety of research questions. We will look at some useful packages for text-modeling such as [Text-Fabric](https://annotation.github.io/text-fabric/) as well as a few mainstream tools like the [Natural Language Toolkit](https://www.nltk.org) and [spaCy](https://spacy.io). The 8th and final week will be dedicated to the final project, in which you will formulate a research question/hypothesis, and design a quantitative experiment to test that hypothesis within your own text. As the culmination of that experiment, you will upload your work to Github and archive it in [Zenodo](https://zenodo.org). 
 
-## Course Schedule  
+## Course Schedule, 27 March – 15 May (2020) 
 
-**Lessons** are given every Friday, 15:00–16:00 GMT. In each lesson I will walk through the basic concepts. Lessons will be recorded and uploaded (link TBA).
+## Lessons 
 
-**Working sessions** are held every Wednesday, 15:00–16:30 GMT. Come and work on the exercises, get help when you're stuck, ask questions. A free and relaxed time.
+Cody will teach the chapters. Held via Zoom (see Slack for more info).
 
-| Date | Chapters | Topics | Assignment |
-| ---- | -------- | ------ | -----------|
-| 27.03.2020 | 1–4 | variables, values, integers, floats, strings, booleans, conditionals  | [ASSIGNMENT_1.ipynb](assignments/ASSIGNMENT_1.ipynb) |
-| 03.04.2020 | 5-11 | containers, loops, functions  | TBA |
-| 10.04.2020 | 12-15 | Pandas DataFrames | TBA | 
-| 17.04.2020 | 16-18 | importing, text files, data formats | TBA | 
-| 24.04.2020 | 19–20 | matplotlib basics | TBA |
-| 01.05.2020 | 21–22 | methods in quantitative linguistics | TBA |
-| 08.05.2020 | project | final project  | TBA |
+| Date | Time | Chapters | Topics | Assignment |
+| ---- | -----| -------- | ------ | -----------|
+| 27.03.2020 | 15:00–16:00 UTC | 1–4 | variables, values, integers, floats, strings, booleans, conditionals  | [ASSIGNMENT_1.ipynb](assignments/ASSIGNMENT_1.ipynb) |
+| 03.04.2020 | 15:00–16:00 UTC | 5-11 | containers, loops, functions  | TBA |
+| 10.04.2020 | 15:00–16:00 UTC | 12-15 | Pandas DataFrames | TBA | 
+| 17.04.2020 | 15:00–16:00 UTC | 16-18 | importing, text files, data formats | TBA | 
+| 24.04.2020 | 15:00–16:00 UTC | 19–20 | matplotlib basics | TBA |
+| 01.05.2020 | 15:00–16:00 UTC | 21–22 | methods in quantitative linguistics | TBA |
+| 08.05.2020 | 15:00–16:00 UTC | project | work on final project  | TBA |
+| 15.05.2020 | 15:00–16:00 UTC | project | submit final project | TBA |  
+
+## Working Session
+
+Relaxed working session where students can ask questions and get help on assignments. Held via Zoom (see Slack for more info).
+
+| Date | Time | 
+| ---- | ---- | 
+| 01.04.2020 | 15:00–16:30 UTC | 
+| 08.04.2020 | 15:00–16:30 UTC | 
+| 15.04.2020 | 15:00–16:30 UTC | 
+| 22.04.2020 | 15:00–16:30 UTC | 
+| 29.04.2020 | 15:00–16:30 UTC | 
+| 06.05.2020 | 15:00–16:30 UTC | 
+| 13.05.2020 | 15:00–16:30 UTC | 
 
 ## Directory Structure
+
+A directory is another word for a "folder". This director contains the following "sub"-directories. They are explained below in order of importance.
+
+1. [lessons](lessons) – contains the Jupyter notebooks from which I'll teach each lesson
+2. [assignments](assignments) - contains the Jupter notebook assignments which you can submit for optional evaluation
+3. [BYOT](BYOT) – put the `.txt` file you want to use for the assignments here
+4. [data/texts](data/texts) – ready-made `.txt` files to put in BYOT if you don't want to use your own
+5. [data](data) - data for the various assignments will go here
+6. [images](images) – these are just images for displaying content throughout the directory 
 
 ## Getting Started
 
