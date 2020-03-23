@@ -31,7 +31,7 @@ Cody will teach the chapters. Held via Zoom (see Slack for more info).
 | ---- | -----| -------- | ------ | -----------|
 | 27.03.2020 | 15:00–16:00 UTC | 1–4 | variables, values, integers, floats, strings, booleans, conditionals  | [ASSIGNMENT_1.ipynb](assignments/ASSIGNMENT_1.ipynb) |
 | 03.04.2020 | 15:00–16:00 UTC | 5-11 | containers, loops, functions  | TBD |
-| 10.04.2020 | 15:00–16:00 UTC | 12 | Pandas DataFrames | TBD | 
+| 10.04.2020 | 15:00–16:00 UTC | TBD | Pandas DataFrames | TBD | 
 | 17.04.2020 | 15:00–16:00 UTC | TBD |  importing, text files, data formats | TBD | 
 | 24.04.2020 | 15:00–16:00 UTC | TBD | matplotlib basics | TBD |
 | 01.05.2020 | 15:00–16:00 UTC | TBD | methods in quantitative linguistics | TBD |
