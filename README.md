@@ -109,5 +109,19 @@ If you'd prefer to simply use a ready-made plain-text file, you may pick one und
 
 ## Learning Strategies
 
+Here is a some great advice on learning to code, taken from the [Python for Text Analysis course](https://github.com/cltl/python-for-text-analysis) at the VU.
+
+When you are just learning how to program, it sometimes happens that you get stuck and you don't know what to do next. This is normal and even happens to very experienced programmers. Please try to follow these strategies when you get stuck:
+
+* If you get error messages, read them carefully - they are informative! In particular, check the line in which the error occurs. If you don't understand what it says, try to google it (you will most likely find some explanation on Stackoverflow).
+* Try to take a step back. Sometimes, you lose sight of the bigger picture when dealing with complicated code. Try to break down the problem into smaller problems without writing actual code (pen and paper can be quite helpful).
+* Check the class material for solutions (the chapters treated in the assignment are usually a good start).
+* Explain the problem to someone else (e.g. a class mate). Go through the code line by line and explain what it does (See [pair programming](https://en.wikipedia.org/wiki/Pair_programming) and [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)).
+* Finally, take a break! Very often, just having a fresh look at the code helps!
+* If none of these steps helped, please ask us for help (see assignment notebooks for contact details).
+
 ## Bibliography
 
+Chantal van Son, Evan Miltenburg, Marten Postma, Filip Illievski, Pia Sommerauer. [Python for Text Analysis course](https://github.com/cltl/python-for-text-analysis). Computational Lexicology and Terminology Lab, Vrije Universiteit Amsterdam.
+
+Natalia Levshina. *How to do Linguistics with R*. Amsterdam: John-Benjamins, 2015.
