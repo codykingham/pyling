@@ -38,7 +38,7 @@ Cody will teach the chapters. Held via Zoom (see Slack for more info).
 | 08.05.2020 | 15:00–16:00 UTC | 23–24 | Text-Fabric, Natural Language Toolkit, spaCy | TBA | 
 | 15.05.2020 | 15:00–16:00 UTC | project | submit final project | TBA |  
 
-## Working Session
+## Working Sessions
 
 Relaxed working session where students can ask questions and get help on assignments. Held via Zoom (see Slack for more info).
 
