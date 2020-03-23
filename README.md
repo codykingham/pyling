@@ -23,6 +23,20 @@ The total duration of this course is 8 weeks. The first 5 weeks of the course fo
 
 ## Course Schedule  
 
+**Lessons** are given every Friday, 15:00–16:00 GMT. In each lesson I will walk through the basic concepts. Lessons will be recorded and uploaded (link TBA).
+
+**Working sessions** are held every Wednesday, 15:00–16:30 GMT. Come and work on the exercises, get help when you're stuck, ask questions. A free and relaxed time.
+
+| Date | Chapters | Topics | Assignment |
+| ---- | -------- | ------ | -----------|
+| 27.03.2020 | 1–4 | variables, values, integers, floats, strings, booleans, conditionals  | [ASSIGNMENT_1.ipynb](assignments/ASSIGNMENT_1.ipynb) |
+| 03.04.2020 | 5-11 | containers, loops, functions  | TBA |
+| 10.04.2020 | 12-15 | Pandas DataFrames | TBA | 
+| 17.04.2020 | 16-18 | importing, text files, data formats | TBA | 
+| 24.04.2020 | 19–20 | matplotlib basics | TBA |
+| 01.05.2020 | 21–22 | methods in quantitative linguistics | TBA |
+| 08.05.2020 | project | final project  | TBA |
+
 ## Directory Structure
 
 ## Getting Started
