@@ -101,11 +101,20 @@ Next, try to open the first Jupyter notebook lesson for this course. Navigate wi
 
 ### Bring Your Own Text
 
-For this course, you should bring your own plain-text file which the exercises will automatically load. There are a few requirements for the text that you choose:
+#### Text Requirements
+For this course, you should bring your own plain-text file which the exercises will automatically load. There are a few guidelines for the text that you choose:
 
-* the text should be plain-text, i.e. NOT Microsoft Word or equivalent, NOT rich text (`.rtf`). Plain-text is provided at some of the options below and is most often saved with `.txt` extension (ending).
+* any language is fine
+* the text should be plain-text saved with a `.txt` extension. i.e. NOT Microsoft Word or equivalent, NOT rich text (`.rtf`).
+* ~700kb or larger in size (i.e. a sizable corpus). This is a loose number, slightly lower is fine.
+* has some kind of meta-data/introductory text at the beginning, and some indicator at the end of the file that text has ended.
 
-If you'd prefer to simply use a ready-made plain-text file, you may pick one under [`data/texts/`](texts). Move whichever text you like into the `BYOT/` folder.
+A really great place to get texts like this is [Project Gutenburg](https://www.gutenberg.org), which has a place you can download a `.txt`. You might need to right-click and select "Download Linked File As..." to download the `.txt` file directly.
+
+If you'd prefer to simply use a ready-made plain-text file, you may pick one under [`data/texts/`](texts). 
+
+#### Selecting the Text
+After you've found the `.txt` you want to use, place it in the `BYOT` folder. The assignments will automatically pull the `.txt` file placed in this folder.
 
 ## Learning Strategies
 
