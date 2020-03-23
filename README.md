@@ -30,13 +30,13 @@ Cody will teach the chapters. Held via Zoom (see Slack for more info).
 | Date | Time | Chapters | Topics | Assignment |
 | ---- | -----| -------- | ------ | -----------|
 | 27.03.2020 | 15:00–16:00 UTC | 1–4 | variables, values, integers, floats, strings, booleans, conditionals  | [ASSIGNMENT_1.ipynb](assignments/ASSIGNMENT_1.ipynb) |
-| 03.04.2020 | 15:00–16:00 UTC | 5-11 | containers, loops, functions  | TBA |
-| 10.04.2020 | 15:00–16:00 UTC | 12-15 | Pandas DataFrames | TBA | 
-| 17.04.2020 | 15:00–16:00 UTC | 16-18 | importing, text files, data formats | TBA | 
-| 24.04.2020 | 15:00–16:00 UTC | 19–20 | matplotlib basics | TBA |
-| 01.05.2020 | 15:00–16:00 UTC | 21–22 | methods in quantitative linguistics | TBA |
-| 08.05.2020 | 15:00–16:00 UTC | 23–24 | Text-Fabric, Natural Language Toolkit, spaCy | TBA | 
-| 15.05.2020 | 15:00–16:00 UTC | project | submit final project | TBA |  
+| 03.04.2020 | 15:00–16:00 UTC | 5-11 | containers, loops, functions  | TBD |
+| 10.04.2020 | 15:00–16:00 UTC | 12 | Pandas DataFrames | TBD | 
+| 17.04.2020 | 15:00–16:00 UTC | TBD |  importing, text files, data formats | TBD | 
+| 24.04.2020 | 15:00–16:00 UTC | TBD | matplotlib basics | TBD |
+| 01.05.2020 | 15:00–16:00 UTC | TBD | methods in quantitative linguistics | TBD |
+| 08.05.2020 | 15:00–16:00 UTC | TBD | Text-Fabric, Natural Language Toolkit, spaCy | TBD | 
+| 15.05.2020 | 15:00–16:00 UTC | project | submit final project | TBD |  
 
 ## Working Sessions
 
