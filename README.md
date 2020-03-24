@@ -118,7 +118,7 @@ After you've found the `.txt` you want to use, place it in the `BYOT` folder. Th
 
 ## Learning Strategies
 
-Here is a some great advice on learning to code, taken from the [Python for Text Analysis course](https://github.com/cltl/python-for-text-analysis) at the VU.
+Here is a some great advice on learning to code, taken from the [Python for Text Analysis course](https://github.com/cltl/python-for-text-analysis#dealing-with-problems-and-what-to-do-if-you-get-stuck) at the VU.
 
 > When you are just learning how to program, it sometimes happens that you get stuck and you don't know what to do next. This is normal and even happens to very experienced programmers. Please try to follow these strategies when you get stuck:
 
