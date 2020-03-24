@@ -22,7 +22,9 @@ Welcome to the Python for Linguists and Humanists course! In this course you wil
 
 The total duration of this course is 8 weeks. The first 2 weeks focus on the bare basics of Python. In week 3 we dive into Pandas DataFrames. Week 4 focuses on reading and writing various data formats. In week 5, a basic introduction to Matplotlib for data visualizations is provided. Finally, from weeks 6-7 we will review methods and tools for quantitative linguistics. An overview of quantitative linguistic methods is explored via [Natalia Levshina](http://www.natalialevshina.com), [Stefan Gries and Anatol Stefanowitsch](https://www.researchgate.net/publication/37929828_Collostructions_Investigating_the_interaction_of_words_and_constructions), and [Nick Ellis](https://lsa.umich.edu/psych/people/faculty/ncellis.html). We look at off-the-shelf tools such as [Text-Fabric](https://annotation.github.io/text-fabric/), [Natural Language Toolkit](https://www.nltk.org) and [spaCy](https://spacy.io). The 8th and final week will be dedicated to the final project, in which you will formulate a research question/hypothesis, and design a quantitative experiment to test that hypothesis within your own text. As the culmination of that experiment, you will upload your work to Github and archive it in [Zenodo](https://zenodo.org). 
 
-## Course Schedule, 27 March – 15 May (2020) 
+## Course Schedule
+
+**27 March – 15 May (2020)**
 
 ## Lessons 
 
