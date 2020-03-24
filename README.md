@@ -133,7 +133,7 @@ Here is a some great advice on learning to code, taken from the [Python for Text
 ## [Zen of Python](https://www.python.org/dev/peps/pep-0020/)
 
 > Beautiful is better than ugly.\
-> Explicit is better than implicit.\ 
+> Explicit is better than implicit.\
 > Simple is better than complex.\
 > Complex is better than complicated.\
 > Flat is better than nested.\
