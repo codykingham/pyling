@@ -13,6 +13,7 @@ Much of this course material is directly adapted from the [Python for Text Analy
 * [Directory (Folder) Structure](#Directory-Structure) - structure of this directory (i.e. folder)
 * [Getting Started](#Getting-Started) – [how to download this repository](#Download-Repository); [instructions to install Anaconda](#Install-Anaconda); [Bring Your Own Text (BYOT)](#Bring-Your-Own-Text) for exercises
 * [Learning Strategies](#Learning-Strategies) - advice for learning how to code in Python
+* [Zen of Python](#Zen-of-Python) – how to write good Python code
 * [Bibliography](#Bibliography) - resources used to develop this course
 
 ## Intro
@@ -128,6 +129,28 @@ Here is a some great advice on learning to code, taken from the [Python for Text
 > * Explain the problem to someone else (e.g. a class mate). Go through the code line by line and explain what it does (See [pair programming](https://en.wikipedia.org/wiki/Pair_programming) and [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)).
 > * Finally, take a break! Very often, just having a fresh look at the code helps!
 > * If none of these steps helped, please ask us for help (see assignment notebooks for contact details).
+
+## [Zen of Python](https://www.python.org/dev/peps/pep-0020/)
+
+> Beautiful is better than ugly.\
+> Explicit is better than implicit.\ 
+> Simple is better than complex.\
+> Complex is better than complicated.\
+> Flat is better than nested.\
+> Sparse is better than dense.\
+> Readability counts.\
+> Special cases aren't special enough to break the rules.\
+> Although practicality beats purity.\
+> Errors should never pass silently.\
+> Unless explicitly silenced.\
+> In the face of ambiguity, refuse the temptation to guess.\
+> There should be one-- and preferably only one --obvious way to do it.\
+> Although that way may not be obvious at first unless you're Dutch.\
+> Now is better than never.\
+> Although never is often better than *right* now.\
+> If the implementation is hard to explain, it's a bad idea.\
+> If the implementation is easy to explain, it may be a good idea.\
+> Namespaces are one honking great idea -- let's do more of those!
 
 ## Bibliography
 
