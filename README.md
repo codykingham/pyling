@@ -89,7 +89,7 @@ Be sure to select Python 3.7:
 
 <a href="https://www.anaconda.com/distribution/"><img src="images/anaconda_3_7.png" height=50% width=50%></a>
 
-**2.** After installation, open the Anaconda Launcher which should've appeared somewhere in your applications area. From the launcher, click on the Jupter notebook application. It looks like this:
+**2.** After installation, open the Anaconda Navigator which should've appeared somewhere in your applications area. From the launcher, click on the Jupter notebook application. It looks like this:
 
 <img src="images/jupyter_launch.png" height=30% width=30%>
 
