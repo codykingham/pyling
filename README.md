@@ -36,7 +36,7 @@ Cody will teach the chapters. Held via Zoom (see Slack for more info).
 | 24.04.2020 | 15:00–16:00 UTC | TBD | matplotlib basics | TBD |
 | 01.05.2020 | 15:00–16:00 UTC | TBD | methods in quantitative linguistics | TBD |
 | 08.05.2020 | 15:00–16:00 UTC | TBD | Text-Fabric, Natural Language Toolkit, spaCy | TBD | 
-| 15.05.2020 | 15:00–16:00 UTC | project | submit final project | TBD |  
+| 15.05.2020 | 15:00–16:00 UTC | project | submit final project |  |  
 
 ## Working Sessions
 
