@@ -100,7 +100,7 @@ The Jupyter interface will open in your web browser. **Note that Jupyter only us
 
 <img src="images/jupyter_pane.png" height=75% width=75%>
 
-Next, try to open the first Jupyter notebook lesson for this course. Navigate within the Jupyter file navigator to your local copy of this repository. Under the `lessons/` folder you will find a bunch of Jupyter notebooks that are already pre-loaded with code and content. This is how we will begin the course!
+Next, try to open the first Jupyter notebook lesson for this course. Navigate within the Jupyter file navigator to your local copy of this repository. Under the `chapters/` folder you will find a bunch of Jupyter notebooks that are already pre-loaded with code and content. This is how we will begin the course!
 
 ### Bring Your Own Text
 
