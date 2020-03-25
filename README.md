@@ -59,7 +59,7 @@ Relaxed working session where students can ask questions and get help on assignm
 
 A directory is another word for a "folder". This director contains the following "sub"-directories. They are explained below in order of importance.
 
-1. [lessons](lessons) – contains the Jupyter notebooks from which I'll teach each lesson
+1. [chapters](chapters) – contains the Jupyter notebooks from which I'll teach each lesson
 2. [assignments](assignments) - contains the Jupter notebook assignments which you can submit for optional evaluation
 3. [BYOT](BYOT) – put the `.txt` file you want to use for the assignments here
 4. [data/texts](data/texts) – ready-made `.txt` files to put in BYOT if you don't want to use your own
