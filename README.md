@@ -108,6 +108,7 @@ Next, try to open the first Jupyter notebook lesson for this course. Navigate wi
 For this course, you should bring your own plain-text file which the exercises will automatically load. There are a few guidelines for the text that you choose:
 
 * any language is fine
+* free of any markup or tags
 * the text should be plain-text saved with a `.txt` extension. i.e. NOT Microsoft Word or equivalent, NOT rich text (`.rtf`).
 * ~700kb or larger in size (i.e. a sizable corpus). This is a loose number, slightly lower is fine.
 * has some kind of meta-data/introductory text at the beginning, and some indicator at the end of the file that text has ended.
