@@ -34,10 +34,10 @@ Cody will teach the chapters. Held via Zoom (see Slack for more info).
 
 | Date | Time | Chapters | Topics | Assignment |
 | ---- | -----| -------- | ------ | -----------|
-| 27.03.2020 | 15:00–16:00 UTC | intro, [1–2](chapters) | variables, values, integers, floats | set-up & review chs 1–2 |
-| 03.04.2020 | 15:00–16:00 UTC | [3–4](chapters) | strings, booleans, conditionals | [ASSIGNMENT_1.ipynb](assignments/ASSIGNMENT_1.ipynb) |
-| 10.04.2020 | 15:00–16:00 UTC | [5-11](chapters) | containers, loops, functions  | TBD |
-| 17.04.2020 | 15:00–16:00 UTC | [12-16](chapters) | Pandas DataFrames | chapter exercises | 
+| 27.03.2020 | 15:00–16:00 UTC | intro, [2–3](chapters) | variables, values, integers, floats | set-up & review chs 1–2 |
+| 03.04.2020 | 15:00–16:00 UTC | [1, 4-5](chapters) | strings, booleans, conditionals | [ASSIGNMENT_1.ipynb](assignments/ASSIGNMENT_1.ipynb) |
+| 10.04.2020 | 15:00–16:00 UTC | [6-12](chapters) | containers, loops, functions  | TBD |
+| 17.04.2020 | 15:00–16:00 UTC | [13-17](chapters) | Pandas DataFrames | chapter exercises | 
 | 24.04.2020 | 15:00–16:00 UTC | TBD |  importing, text files, data formats | TBD | 
 | 01.05.2020 | 15:00–16:00 UTC | TBD | methods in quantitative linguistics | TBD |
 | 08.05.2020 | 15:00–16:00 UTC | TBD | Text-Fabric, Natural Language Toolkit, spaCy | TBD | 
