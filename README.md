@@ -34,14 +34,14 @@ Cody will teach the chapters. Held via Zoom (see Slack for more info).
 
 | Date | Time | Chapters | Topics | Assignment |
 | ---- | -----| -------- | ------ | -----------|
-| 27.03.2020 | 15:00–16:00 UTC | intro, [1–3](chapters) | Jupyter Notebook, variables, values, integers, floats | set-up & review chs 1–3 |
-| 03.04.2020 | 15:00–16:00 UTC | [4-5](chapters) | strings, booleans, conditionals | [ASSIGNMENT_1.ipynb](assignments/ASSIGNMENT_1.ipynb) |
-| 10.04.2020 | 15:00–16:00 UTC | [6-12](chapters) | containers, loops, functions  | TBD |
-| 17.04.2020 | 15:00–16:00 UTC | [13-17](chapters) | Pandas DataFrames | chapter exercises | 
-| 24.04.2020 | 15:00–16:00 UTC | TBD |  importing, text files, data formats | TBD | 
-| 01.05.2020 | 15:00–16:00 UTC | TBD | methods in quantitative linguistics | TBD |
-| 08.05.2020 | 15:00–16:00 UTC | TBD | Text-Fabric, Natural Language Toolkit, spaCy | TBD | 
-| 15.05.2020 | 15:00–16:00 UTC | project | submit final project |  |  
+| 27.03.2020 | 14:00–15:00 UTC | intro, [1–3](chapters) | Jupyter Notebook, variables, values, integers, floats | set-up & review chs 1–3 |
+| 03.04.2020 | 14:00–15:00 UTC | [4-5](chapters) | strings, booleans, conditionals | [ASSIGNMENT_1.ipynb](assignments/ASSIGNMENT_1.ipynb) |
+| 10.04.2020 | 14:00–15:00 UTC | [6-12](chapters) | containers, loops, functions  | TBD |
+| 17.04.2020 | 14:00–15:00 UTC | [13-17](chapters) | Pandas DataFrames | chapter exercises | 
+| 24.04.2020 | 14:00–15:00 UTC | TBD |  importing, text files, data formats | TBD | 
+| 01.05.2020 | 14:00–15:00 UTC | TBD | methods in quantitative linguistics | TBD |
+| 08.05.2020 | 14:00–15:00 UTC | TBD | Text-Fabric, Natural Language Toolkit, spaCy | TBD | 
+| 15.05.2020 | 14:00–15:00 UTC | project | submit final project |  |  
 
 ## Working Sessions
 
@@ -49,13 +49,13 @@ Relaxed working session where students can ask questions and get help on assignm
 
 | Date | Time | 
 | ---- | ---- | 
-| 01.04.2020 | 15:00–16:30 UTC | 
-| 08.04.2020 | 15:00–16:30 UTC | 
-| 15.04.2020 | 15:00–16:30 UTC | 
-| 22.04.2020 | 15:00–16:30 UTC | 
-| 29.04.2020 | 15:00–16:30 UTC | 
-| 06.05.2020 | 15:00–16:30 UTC | 
-| 13.05.2020 | 15:00–16:30 UTC | 
+| 01.04.2020 | 14:00–15:30 UTC | 
+| 08.04.2020 | 14:00–15:30 UTC | 
+| 15.04.2020 | 14:00–15:30 UTC | 
+| 22.04.2020 | 14:00–15:30 UTC | 
+| 29.04.2020 | 14:00–15:30 UTC | 
+| 06.05.2020 | 14:00–15:30 UTC | 
+| 13.05.2020 | 14:00–15:30 UTC | 
 
 ## Directory Structure
 
