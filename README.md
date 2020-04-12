@@ -4,6 +4,8 @@
 
 **Cody Kingham, `cak47[put "at-sign" here].cam.ac.uk`**
 
+**NOTE: this course will be updated regularly throughout the next few weeks. -12/04/2020**
+
 Much of this course material is directly adapted from the [Python for Text Analysis Course](https://github.com/cltl/python-for-text-analysis) at the Vrije Universiteit Amsterdam. I take care to indicate those materials which are directly copied from that course. A special thanks to [Chantal van Son](https://github.com/ChantalvanSon), [Evan Miltenburg](https://github.com/evanmiltenburg), [Marten Postma](https://github.com/MartenPostma), [Filip Ilievski](https://github.com/filievski), Pia Sommerauer, and the [Computational Lexicology & Terminology Lab](http://www.cltl.nl) at the VU.
 
 Pandas chapters are from [Joris Van den Bossche's Pandas Tutorial](https://github.com/jorisvandenbossche/pandas-tutorial)
