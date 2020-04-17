@@ -37,7 +37,7 @@ Cody will teach the chapters. Held via Zoom (see Slack for more info).
 | 27.03.2020 | 14:00–15:00 UTC | intro, [1–3](chapters) | Jupyter Notebook, variables, values, integers, floats | set-up & review chs 1–3 |
 | 03.04.2020 | 14:00–15:00 UTC | [4-5](chapters) | strings, booleans, conditionals | [ASSIGNMENT_1.ipynb](assignments/ASSIGNMENT_1.ipynb) |
 | 10.04.2020 | 14:00–15:00 UTC | [6-12](chapters) | containers, loops, functions  | [ASSIGNMENT_2.ipynb](assignments/ASSIGNMENT_2.ipynb) |
-| 17.04.2020 | 14:00–15:00 UTC | [13-17](chapters) | Pandas DataFrames | TBD | 
+| 17.04.2020 | 14:00–15:00 UTC | [13-17](chapters) | Pandas DataFrames | notebook exercises | 
 | 24.04.2020 | 14:00–15:00 UTC | TBD |  importing, text files, data formats | TBD | 
 | 01.05.2020 | 14:00–15:00 UTC | TBD | methods in quantitative linguistics | TBD |
 | 08.05.2020 | 14:00–15:00 UTC | TBD | Text-Fabric, Natural Language Toolkit, spaCy | TBD | 
