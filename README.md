@@ -42,7 +42,7 @@ Cody will teach the chapters. Held via Zoom (see Slack for more info).
 | 17.04.2020 | 14:00–15:00 UTC | [13-17](chapters) | Pandas DataFrames | notebook exercises | 
 | 24.04.2020 | 14:00–15:00 UTC | [18](chapters) |  importing, read/write, csv | catch-up week | 
 | 01.05.2020 | 14:00–15:00 UTC | [19-22](chapters) | methods in quantitative linguistics | see Slack |
-| 08.05.2020 | 14:00–15:00 UTC | TBD | Text-Fabric, Natural Language Toolkit, spaCy | TBD | 
+| 08.05.2020 | 14:00–15:00 UTC | [23–25](chapters) | Text-Fabric, Natural Language Toolkit, spaCy | None | 
 | 15.05.2020 | 14:00–15:00 UTC | project | submit final project |  |  
 
 ## Working Sessions
